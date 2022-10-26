@@ -10,7 +10,7 @@ Kullanıcı her istediğinde Api'den kullanıcıyı değiştirebilmektedir.
 
 #Kaynak Kodlarında Detaylı  açıklamara yer verilmiştir.
 
-#Uygulamanın sonucu görmek için aşağıdaki linke tıklayabilirsiniz. https://aydogdu-ali.github.io/get_users/
+#Uygulamanın sonucu görmek için yandaki  linke tıklayabilirsiniz. https://aydogdu-ali.github.io/get_users/
  
  
  
