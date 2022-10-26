@@ -27,6 +27,7 @@ const { name, dob, email, picture, location } = user;
         <div className= " container bg-warning rounded-circle mt-5 p-5 text center w-50">      
                 <h2 className="mt-3 text-danger fw-bold">
         {/* Optional Chaining */}
+        {/* Bunun anlamı varsa bilgiyi getirir yoksa boş bırakır. */}
         {name?.first} {name?.last}
       </h2>
       <img className=" p-3 rounded-circle w-50" src={picture?.large} alt="img" />
