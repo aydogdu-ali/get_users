@@ -6,7 +6,7 @@
 
 Kullanıcı her istediğinde Api'den kullanıcıyı değiştirebilmektedir. 
 
-#Bu uygulamada useState ve UseEffect kullanımları sade ve basit seklinde gösterilmiş olup ayrıca Optional Chaining örnegide kullanılmıştır.
+#Bu uygulamada useState ve UseEffect kullanımları sade ve basit seklinde gösterilmiş olup ayrıca Optional Chaining örneğide kullanılmıştır.
 
 #Kaynak Kodlarında Detaylı  açıklamara yer verilmiştir.
 
